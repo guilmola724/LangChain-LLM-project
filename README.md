@@ -35,10 +35,6 @@ The OpenAI API is powered by a diverse set of [models](https://platform.openai.c
 
 #### 1. Clone the repository
 
-```bash
-git clone https://github.com/daveebbelaar/langchain-experiments.git
-```
-
 #### 2. Create a Python environment
 
 Python 3.6 or higher using `venv` or `conda`. Using `venv`:
@@ -89,6 +85,5 @@ Now your Python environment is set up, and you can proceed with running the expe
 
 This document is provided to you by Datalumina. We help data analysts, engineers, and scientists launch and scale a successful freelance business — $100k+ /year, fun projects, happy clients. If you want to learn more about what we do, you can visit our [website](https://www.datalumina.io/) and subscribe to our [newsletter](https://www.datalumina.io/newsletter). Feel free to share this document with your data friends and colleagues.
 
-## Tutorials
-For video tutorials on how to use the LangChain library and run experiments, visit the YouTube channel: [youtube.com/@daveebbelaar](https://youtube.com/@daveebbelaar)
+
 
